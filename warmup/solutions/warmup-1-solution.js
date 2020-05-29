@@ -47,10 +47,6 @@ function greeting(first, last) {
 // 13) Store the length of string "pneumonoultramicroscopicsilicovolcanoconiosis" in a new variable
 const stringLength = "pneumonoultramicroscopicsilicovolcanoconiosis".length;
 
-// 14) Given any string, find a way to print the string 5 times (by using a single command)
-// For example, my_str = " a "
-// Expected: " a  a  a  a  a "
-
 
 // 15) Create a function that takes two numbers as parameters and returns their sum
 function sum(a, b) {
